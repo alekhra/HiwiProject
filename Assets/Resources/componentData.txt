@@ -1,0 +1,5 @@
+1:green cubes = 100:green spheres = 100:red cube = 1
+2:green cubes = 0:green spheres = 0:red cube = 100
+3:green cubes = 100:green spheres = 0:red cube = 0
+4:green cubes = 0:green spheres = 0:red cube = 100
+5:green cubes = 100:green spheres = 100:red cube = 0
